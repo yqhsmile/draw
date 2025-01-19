@@ -44,7 +44,7 @@
           <mxGeometry x="590" y="410" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rv6llwFooytlnJuCnH-C-30" value="前端交互+UI (Web、App&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="280" y="160" width="460" height="40" as="geometry" />
+          <mxGeometry x="469" y="160" width="271" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Rv6llwFooytlnJuCnH-C-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -136,9 +136,9 @@
             <mxPoint x="620" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rv6llwFooytlnJuCnH-C-57" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;exitX=0.783;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Rv6llwFooytlnJuCnH-C-30" edge="1">
+        <mxCell id="Rv6llwFooytlnJuCnH-C-57" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=3;entryX=0.681;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="Rv6llwFooytlnJuCnH-C-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="638" y="190" as="sourcePoint" />
+            <mxPoint x="654" y="203" as="sourcePoint" />
             <mxPoint x="640" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -209,10 +209,22 @@
           <mxGeometry x="540" y="290" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rv6llwFooytlnJuCnH-C-76" value="UI控制向南" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="210" width="80" height="30" as="geometry" />
+          <mxGeometry x="652" y="207" width="80" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Rv6llwFooytlnJuCnH-C-77" value="websocket数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395" y="290" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CJSw-y1vnMdqLXECTI-l-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Rv6llwFooytlnJuCnH-C-30" target="Rv6llwFooytlnJuCnH-C-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CJSw-y1vnMdqLXECTI-l-2" value="大数据平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="277" y="160" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CJSw-y1vnMdqLXECTI-l-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.057;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359" y="240" as="sourcePoint" />
+            <mxPoint x="360" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
