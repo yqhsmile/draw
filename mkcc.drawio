@@ -1482,7 +1482,7 @@
         <mxCell id="DvZiXVggoAExzwj_V2QO-69" value="&lt;font&gt;CORE DATA&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;边缘持久化&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-349.25" y="5103" width="108" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="DvZiXVggoAExzwj_V2QO-85" value="&lt;font&gt;MESSAGE BUS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DvZiXVggoAExzwj_V2QO-85" value="&lt;font&gt;MESSAGE BUS(&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;物模型接口&lt;/font&gt;)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-380.75" y="5153" width="565" height="23" as="geometry" />
         </mxCell>
         <mxCell id="DvZiXVggoAExzwj_V2QO-88" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
