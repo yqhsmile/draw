@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="第 1 页" id="xy8B5HBKMnqeowzIdhpI">
+    <mxGraphModel dx="1390" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-1" value="基础设施&lt;div&gt;自主可控&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0743bb, #6db2ff);fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-2" value="底层软件&lt;br&gt;&lt;div&gt;自主可控&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0743bb, #6db2ff);fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-3" value="应用软件&lt;br&gt;&lt;div&gt;自主可控&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0743bb, #6db2ff);fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-4" value="安全产品&lt;br&gt;&lt;div&gt;自主可控&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0743bb, #6db2ff);fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-5" value="CPU芯片、服务器、存储、PLC控制器" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-6" value="操作系统、数据库、中间件" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-7" value="不同行业领域用户需求而提供的软件" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-8" value="边界安全产品、终端安全产品、安全管理产品" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-9" value="&lt;font&gt;自主芯片：&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;RISC指令集的龙芯、基于X86指令集的兆芯、基于ARM指令集的飞腾以及基于Power指令集的宏芯;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;自主服务器、存储器：&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;浪潮、曙光、华为；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;PLC控制器：&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;汇川、台达、和时利、信捷；&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF0000;fontColor=#FF0000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-10" value="&lt;font&gt;操作系统：&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;中标麒麟、红旗、统信、普华软件；&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;数据库：&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;南大通用、武汉达梦、人大金仓、神州通用&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;中间件：&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;东方通、金蝶等；&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF0000;fontColor=#FF0000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-11" value="&lt;font&gt;煤矿行业：&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;煤科总院的&lt;font&gt;矿山中控、太阳石大模型相关应用;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;电力行业：&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;国电南瑞、东土科技&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;办公软件：&lt;/font&gt;&lt;font color=&quot;#000000&quot;&gt;金山、腾讯文档、飞书等；&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF0000;fontColor=#FF0000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-12" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;启明星辰、绿盟科技、蓝盾股份、北信源、天融信、深信服、360&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#FF0000;fontColor=#FF0000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#D0CEE2;strokeColor=none;endWidth=11.428571428571429;endSize=2.857142857142857;width=9.523809523809524;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="149.76" as="sourcePoint" />
+            <mxPoint x="190" y="149.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#D0CEE2;strokeColor=none;endWidth=11.428571428571429;endSize=2.857142857142857;width=9.523809523809524;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="149.76" as="sourcePoint" />
+            <mxPoint x="350" y="149.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bLM2cKiSRqv0Y3BeCiKo-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#D0CEE2;strokeColor=none;endWidth=11.428571428571429;endSize=2.857142857142857;width=9.523809523809524;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="149.76" as="sourcePoint" />
+            <mxPoint x="510" y="149.76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
